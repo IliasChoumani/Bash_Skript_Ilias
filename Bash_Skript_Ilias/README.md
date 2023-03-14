@@ -4,3 +4,4 @@
 - Hier liegt mein Bash Skript aus dem Workshop.
 - Author: Ilias Choumani
 
+Liebe Grüße, Pauline 😄
